@@ -9,8 +9,6 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by sydney on 05.04.17.
- *
  * Container used to store messages read from an inputStream (and
  * therefore possibly from a file).
  */

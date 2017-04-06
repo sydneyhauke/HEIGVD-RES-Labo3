@@ -9,8 +9,6 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by sydney on 05.04.17.
- *
  * Container for various mail addresses, and a random sender in the mail group
  */
 public final class MailGroup {
